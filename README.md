@@ -1,1 +1,1 @@
-react2-six-rosy.vercel.app
+https://react2-six-rosy.vercel.app/
